@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back_button"
+        android:title="Vissza"
+        android:icon="@drawable/ic_back_button"
+        android:iconTint="@android:color/white"
+        app:showAsAction="always" />
+
+    <item
+        android:title="Kijelentkezés"
+        android:id="@+id/logout"
+        app:showAsAction = "never" />
+
+    <item
+        android:id="@+id/edit_post"
+        android:icon="@drawable/ic_checkmark_post"
+        android:iconTint="@color/white"
+        app:showAsAction="always"
+        android:title="Post szerkesztése" />
+
+    <item
+        android:id="@+id/delete_post"
+        android:title="Post törlése"
+        android:icon="@drawable/ic_delete_post"
+        app:showAsAction="always" />
+
+</menu>

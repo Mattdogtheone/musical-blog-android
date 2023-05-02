@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281351640500",
+    "firebase_url": "https://musical-blog-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "musical-blog",
+    "storage_bucket": "musical-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281351640500:android:97b849dc2cee2e8213cee1",
+        "android_client_info": {
+          "package_name": "com.example.musicalblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281351640500-91qoa8qsmfprhppn79dt20a0mfr2jfuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCxRTgJ-Tbqp3GD_jjynMZY1xdX0COHq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281351640500-91qoa8qsmfprhppn79dt20a0mfr2jfuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
